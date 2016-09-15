@@ -1,0 +1,174 @@
+SAMPLE
+Name data_SingleEl
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/data_single_electron_Run2016B_MINIAOD_PromptReco-v2re.root
+
+SAMPLE
+Name data_SingleMu
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/data_single_muon_Run2016B_MINIAOD_PromptReco-v2re.root
+
+SAMPLE
+Name data_MET
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/data_met_Run2016B_MINIAOD_PromptReco-v2re.root
+
+SAMPLE
+Name data_SingleEl
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/data_single_electron_Run2016C_MINIAOD_PromptReco-v2.root
+
+SAMPLE
+Name data_SingleMu
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/data_single_muon_Run2016C_MINIAOD_PromptReco-v2.root
+
+SAMPLE
+Name data_MET
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/data_met_Run2016C_MINIAOD_PromptReco-v2.root
+
+SAMPLE
+Name data_SingleEl
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/data_single_electron_Run2016D_MINIAOD_PromptReco-v2.root
+
+SAMPLE
+Name data_SingleMu
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/data_single_muon_Run2016D_MINIAOD_PromptReco-v2.root
+
+SAMPLE
+Name data_MET
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/data_met_Run2016D_MINIAOD_PromptReco-v2.root
+
+SAMPLE
+Name ttbar_1lep
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/ttbar_singleLeptFromTbar_madgraph_pythia8_ext1_25ns.root
+
+SAMPLE
+Name ttbar_1lep_12
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/ttbar_singleLeptFromT_madgraph_pythia8_25ns.root
+
+SAMPLE
+Name ttbar_2lep
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/ttbar_diLept_madgraph_pythia8_ext1_25ns.root
+
+//single top:
+SAMPLE
+Name ST_t_tbarW
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/t_tbarW_5f_powheg_pythia8_25ns.root
+
+SAMPLE
+Name ST_t_tW
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/t_tW_5f_powheg_pythia8_25ns.root
+
+SAMPLE
+Name ST_t_tch
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/t_tch_4f_powheg_pythia8_25ns.root
+
+SAMPLE
+Name ST_tbar_tch
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/tbar_tch_4f_powheg_pythia8_25ns.root
+
+SAMPLE
+Name ST_t_sch
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/t_sch_4f_amcnlo_pythia8_25ns.root
+
+//WJets
+
+Name WJetsToLNu_1
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/W1JetsToLNu_madgraph_pythia8_25ns.root
+
+SAMPLE
+Name WJetsToLNu_2
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/W2JetsToLNu_madgraph_pythia8_25ns.root
+
+SAMPLE
+Name WJetsToLNu_3
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/W3JetsToLNu_madgraph_pythia8_25ns.root
+
+SAMPLE
+Name WJetsToLNu_4
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/W4JetsToLNu_madgraph_pythia8_25ns.root
+
+SAMPLE
+Name WJetsToLNu_nupt200_1
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/W1JetsToLNu_nupT200_madgraph_pythia8_25ns.root
+
+SAMPLE
+Name WJetsToLNu_nupt200_2
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/W2JetsToLNu_nupT200_madgraph_pythia8_25ns.root
+
+SAMPLE
+Name WJetsToLNu_nupt200_3
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/W3JetsToLNu_nupT200_madgraph_pythia8_25ns.root
+
+SAMPLE
+Name WJetsToLNu_nupt200_4
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/W4JetsToLNu_nupT200_madgraph_pythia8_25ns.root
+
+//Rare
+SAMPLE
+Name DYJetsToLL_m10to50
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/DYJetsToLL_m10To50_amcnlo_pythia8_25ns.root
+
+SAMPLE
+Name DYJetsToLL_m50
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/DYJetsToLL_m50_amcnlo_pythia8_25ns.root
+
+SAMPLE
+Name TTWJetsToLNu
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/TTWJetsToLNu_amcnlo_pythia8_25ns.root
+
+SAMPLE
+Name TTWJetsToQQ
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/TTWJetsToQQ_amcnlo_pythia8_25ns.root
+
+SAMPLE
+Name TTZToQQ
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/TTZToQQ_amcnlo_pythia8_25ns.root
+
+SAMPLE
+Name TTZToLLNuNu
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/TTZToLLNuNu_M-10_amcnlo_pythia8_25ns.root
+
+#SAMPLE
+#Name tZq_ll
+#Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/tZq_ll_4f_amcnlo_pythia8_25ns.root
+
+#SAMPLE
+#Name tZq_nunu_4f
+#Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/tZq_nunu_4f_amcnlo_pythia8_25ns.root
+
+SAMPLE
+Name WW_2l2nu
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/WWTo2l2Nu_powheg_25ns.root
+
+SAMPLE
+Name WWToLNuQQ
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/WWToLNuQQ_powheg_25ns.root
+
+SAMPLE
+Name WZTo3LNu
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/WZTo3LNu_powheg_pythia8_25ns.root
+
+SAMPLE
+Name WZTo2L2Q
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/WZTo2L2Q_amcnlo_pythia8_25ns.root
+
+SAMPLE
+Name WZTo1LNu2Q
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/WZTo1LNu2Q_amcnlo_pythia8_25ns.root
+
+SAMPLE
+Name WZTo1L3Nu
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/WZTo1L3Nu_amcnlo_pythia8_25ns.root 
+
+SAMPLE
+Name ZZTo4L
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/ZZTo4L_powheg_pythia8_25ns.root
+
+SAMPLE
+Name ZZTo2L2Q
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/ZZTo2L2Q_amcnlo_pythia8_25ns.root
+
+SAMPLE
+Name ZZTo2L2Nu
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/ZZTo2L2Nu_powheg_pythia8_25ns.root
+
+SAMPLE
+Name ZZTo2Q2Nu
+Path /nfs-7/userdata/isuarez/STOP_ATLASBabies/ZZTo2Q2Nu_amcnlo_pythia8_25ns.root
